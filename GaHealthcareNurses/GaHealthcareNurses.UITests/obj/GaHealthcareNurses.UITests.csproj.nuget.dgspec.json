@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Projects_2021\\Ayo\\Repo\\gahealthcarenurses\\GaHealthcareNurses\\GaHealthcareNurses.UITests\\GaHealthcareNurses.UITests.csproj": {}
+  },
+  "projects": {
+    "F:\\Projects_2021\\Ayo\\Repo\\gahealthcarenurses\\GaHealthcareNurses\\GaHealthcareNurses.UITests\\GaHealthcareNurses.UITests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects_2021\\Ayo\\Repo\\gahealthcarenurses\\GaHealthcareNurses\\GaHealthcareNurses.UITests\\GaHealthcareNurses.UITests.csproj",
+        "projectName": "GaHealthcareNurses.UITests",
+        "projectPath": "F:\\Projects_2021\\Ayo\\Repo\\gahealthcarenurses\\GaHealthcareNurses\\GaHealthcareNurses.UITests\\GaHealthcareNurses.UITests.csproj",
+        "packagesPath": "C:\\Users\\india\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects_2021\\Ayo\\Repo\\gahealthcarenurses\\GaHealthcareNurses\\GaHealthcareNurses.UITests\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\india\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.uxdivers.com/grial": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "Xamarin.UITest": {
+              "target": "Package",
+              "version": "[3.0.5, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

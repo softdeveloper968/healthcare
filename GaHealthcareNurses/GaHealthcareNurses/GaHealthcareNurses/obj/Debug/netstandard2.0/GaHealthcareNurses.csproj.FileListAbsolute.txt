@@ -1,0 +1,14 @@
+F:\Projects_2021\Ayo\Repo\gahealthcarenurses\GaHealthcareNurses\GaHealthcareNurses\GaHealthcareNurses\bin\Debug\netstandard2.0\GaHealthcareNurses.deps.json
+F:\Projects_2021\Ayo\Repo\gahealthcarenurses\GaHealthcareNurses\GaHealthcareNurses\GaHealthcareNurses\bin\Debug\netstandard2.0\GaHealthcareNurses.dll
+F:\Projects_2021\Ayo\Repo\gahealthcarenurses\GaHealthcareNurses\GaHealthcareNurses\GaHealthcareNurses\bin\Debug\netstandard2.0\ref\GaHealthcareNurses.dll
+F:\Projects_2021\Ayo\Repo\gahealthcarenurses\GaHealthcareNurses\GaHealthcareNurses\GaHealthcareNurses\bin\Debug\netstandard2.0\GaHealthcareNurses.pdb
+F:\Projects_2021\Ayo\Repo\gahealthcarenurses\GaHealthcareNurses\GaHealthcareNurses\GaHealthcareNurses\obj\Debug\netstandard2.0\GaHealthcareNurses.csprojAssemblyReference.cache
+F:\Projects_2021\Ayo\Repo\gahealthcarenurses\GaHealthcareNurses\GaHealthcareNurses\GaHealthcareNurses\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Projects_2021\Ayo\Repo\gahealthcarenurses\GaHealthcareNurses\GaHealthcareNurses\GaHealthcareNurses\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Projects_2021\Ayo\Repo\gahealthcarenurses\GaHealthcareNurses\GaHealthcareNurses\GaHealthcareNurses\obj\Debug\netstandard2.0\GaHealthcareNurses.AssemblyInfoInputs.cache
+F:\Projects_2021\Ayo\Repo\gahealthcarenurses\GaHealthcareNurses\GaHealthcareNurses\GaHealthcareNurses\obj\Debug\netstandard2.0\GaHealthcareNurses.AssemblyInfo.cs
+F:\Projects_2021\Ayo\Repo\gahealthcarenurses\GaHealthcareNurses\GaHealthcareNurses\GaHealthcareNurses\obj\Debug\netstandard2.0\GaHealthcareNurses.csproj.CoreCompileInputs.cache
+F:\Projects_2021\Ayo\Repo\gahealthcarenurses\GaHealthcareNurses\GaHealthcareNurses\GaHealthcareNurses\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Projects_2021\Ayo\Repo\gahealthcarenurses\GaHealthcareNurses\GaHealthcareNurses\GaHealthcareNurses\obj\Debug\netstandard2.0\GaHealthcareNurses.dll
+F:\Projects_2021\Ayo\Repo\gahealthcarenurses\GaHealthcareNurses\GaHealthcareNurses\GaHealthcareNurses\obj\Debug\netstandard2.0\ref\GaHealthcareNurses.dll
+F:\Projects_2021\Ayo\Repo\gahealthcarenurses\GaHealthcareNurses\GaHealthcareNurses\GaHealthcareNurses\obj\Debug\netstandard2.0\GaHealthcareNurses.pdb
